@@ -1,0 +1,41 @@
+{
+    "Sitemap xml": [
+        "https://www.google.com/gmail/sitemap.xml",
+        "https://www.google.com/forms/sitemaps.xml",
+        "https://www.google.com/slides/sitemaps.xml",
+        "https://www.google.com/sheets/sitemaps.xml",
+        "https://www.google.com/drive/sitemap.xml",
+        "https://www.google.com/docs/sitemaps.xml",
+        "https://www.google.com/get/sitemap.xml",
+        "https://www.google.com/travel/flights/sitemap.xml",
+        "https://www.google.com/admob/sitemap.xml",
+        "https://www.google.com/business/sitemap.xml",
+        "https://www.google.com/services/sitemap.xml",
+        "https://www.google.com/partners/about/sitemap.xml",
+        "https://www.google.com/adwords/sitemap.xml",
+        "https://www.google.com/search/about/sitemap.xml",
+        "https://www.google.com/adsense/start/sitemap.xml",
+        "https://www.google.com/retail/sitemap.xml",
+        "https://www.google.com/sitemap_search.xml",
+        "https://www.google.com/webmasters/sitemap.xml",
+        "https://www.google.com/chromebook/sitemap.xml",
+        "https://www.google.com/chrome/sitemap.xml",
+        "https://www.google.com/calendar/about/sitemap.xml",
+        "https://www.google.com/photos/sitemap.xml",
+        "https://www.google.com/nonprofits/sitemap.xml",
+        "https://www.google.com/finance/sitemap.xml",
+        "https://www.google.com/shopping/sitemap.xml"
+    ],
+    "WHOIS Lookup": {
+        "Domain Name": "GOOGLE.COM",
+        "Registrar": "MarkMonitor, Inc.",
+        "Creation Date": "[datetime.datetime(1997, 9, 15, 4, 0), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=datetime.timezone.utc)]",
+        "Expiration Date": "[datetime.datetime(2028, 9, 14, 4, 0), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=datetime.timezone.utc)]",
+        "Name Servers": [
+            "NS1.GOOGLE.COM",
+            "NS2.GOOGLE.COM",
+            "NS3.GOOGLE.COM",
+            "NS4.GOOGLE.COM"
+        ]
+    }
+}
