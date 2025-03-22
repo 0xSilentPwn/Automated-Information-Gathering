@@ -7,21 +7,21 @@ It helps security professionals collect **publicly available data** about a targ
 ---
 
 ## **📦 Features**
-**robots.txt & Sitemap Extraction** – Identifies restricted and indexed paths.  
-**WHOIS Lookup** – Retrieves domain ownership and registrar information.  
-**IP Geolocation** – Finds server location, ISP, and network details.  
-**Port Scanning** – Identifies open ports and associated services.  
-**Google Dorking** – Automates advanced Google searches for sensitive data.  
-**Metadata Extraction** – Extracts hidden metadata from web pages.  
+🔹 **robots.txt & Sitemap Extraction** – Identifies restricted and indexed paths.  
+🔹 **WHOIS Lookup** – Retrieves domain ownership and registrar information.  
+🔹 **IP Geolocation** – Finds server location, ISP, and network details.  
+🔹 **Port Scanning** – Identifies open ports and associated services.  
+🔹 **Google Dorking** – Automates advanced Google searches for sensitive data.  
+🔹 **Metadata Extraction** – Extracts hidden metadata from web pages.  
 
 ---
 
-Automated_IG_Tool/  
-│── README.md                # Project Documentation  
-│── requirements.txt         # Dependencies List  
-│── Automated_IG_Tool.py     # Main Python Script (All Features)  
-│── results/                 # Stores scanned results  
-│   ├── info_gathering_results.json  # JSON output file 
+- Automated_IG_Tool/  
+- │── README.md                # Project Documentation  
+- │── requirements.txt         # Dependencies List  
+- │── Automated_IG_Tool.py     # Main Python Script (All Features)  
+- │── results/                 # Stores scanned results  
+- │   ├── info_gathering_results.json  # JSON output file 
 
 ## **🛠 Installation**
 ### **1️⃣ Install Dependencies**
