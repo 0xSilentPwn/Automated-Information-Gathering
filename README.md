@@ -16,7 +16,8 @@ It helps security professionals collect **publicly available data** about a targ
 
 ---
 
-- Automated_IG_Tool/  
+## 📂 Project Structure
+ Automated_IG_Tool/  
 - │── README.md                # Project Documentation  
 - │── requirements.txt         # Dependencies List  
 - │── Automated_IG_Tool.py     # Main Python Script (All Features)  
