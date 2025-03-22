@@ -17,13 +17,14 @@ It helps security professionals collect **publicly available data** about a targ
 ---
 
 ## 📂 Project Structure
- Automated_IG_Tool/  
-- │── README.md                # Project Documentation  
-- │── requirements.txt         # Dependencies List  
-- │── Automated_IG_Tool.py     # Main Python Script (All Features)  
-- │── results/                 # Stores scanned results  
-- │   ├── info_gathering_results.json  # JSON output file 
-
+```
+/--- Automated_IG_Tool/  
+   /--- results/                 # Stores scanned results  
+   ├--- info_gathering_results.json  # JSON output file 
+ │-- README.md                # Project Documentation  
+ │-- requirements.txt         # Dependencies List  
+ │--Automated_IG_Tool.py     # Main Python Script (All Features)
+```
 ## **🛠 Installation**
 ### **1️⃣ Install Dependencies**
 ```bash
