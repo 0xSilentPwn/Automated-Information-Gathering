@@ -1,41 +1,37 @@
 {
-    "Sitemap xml": [
-        "https://www.google.com/gmail/sitemap.xml",
-        "https://www.google.com/forms/sitemaps.xml",
-        "https://www.google.com/slides/sitemaps.xml",
-        "https://www.google.com/sheets/sitemaps.xml",
-        "https://www.google.com/drive/sitemap.xml",
-        "https://www.google.com/docs/sitemaps.xml",
-        "https://www.google.com/get/sitemap.xml",
-        "https://www.google.com/travel/flights/sitemap.xml",
-        "https://www.google.com/admob/sitemap.xml",
-        "https://www.google.com/business/sitemap.xml",
-        "https://www.google.com/services/sitemap.xml",
-        "https://www.google.com/partners/about/sitemap.xml",
-        "https://www.google.com/adwords/sitemap.xml",
-        "https://www.google.com/search/about/sitemap.xml",
-        "https://www.google.com/adsense/start/sitemap.xml",
-        "https://www.google.com/retail/sitemap.xml",
-        "https://www.google.com/sitemap_search.xml",
-        "https://www.google.com/webmasters/sitemap.xml",
-        "https://www.google.com/chromebook/sitemap.xml",
-        "https://www.google.com/chrome/sitemap.xml",
-        "https://www.google.com/calendar/about/sitemap.xml",
-        "https://www.google.com/photos/sitemap.xml",
-        "https://www.google.com/nonprofits/sitemap.xml",
-        "https://www.google.com/finance/sitemap.xml",
-        "https://www.google.com/shopping/sitemap.xml"
-    ],
+    "Robot txt ": "robots.txt not found or inaccessible. Status code: 404",
+    "Sitemap xml": {
+        "error": "Failed to fetch sitemap: 404"
+    },
     "WHOIS Lookup": {
-        "Domain Name": "GOOGLE.COM",
-        "Registrar": "MarkMonitor, Inc.",
-        "Creation Date": "[datetime.datetime(1997, 9, 15, 4, 0), datetime.datetime(1997, 9, 15, 7, 0, tzinfo=datetime.timezone.utc)]",
-        "Expiration Date": "[datetime.datetime(2028, 9, 14, 4, 0), datetime.datetime(2028, 9, 13, 7, 0, tzinfo=datetime.timezone.utc)]",
+        "Domain Name": "TESTFIRE.NET",
+        "Registrar": "Amazon Registrar, Inc.",
+        "Creation Date": "1999-07-23 13:52:32",
+        "Expiration Date": "2026-07-23 13:52:32",
         "Name Servers": [
-            "NS1.GOOGLE.COM",
-            "NS2.GOOGLE.COM",
-            "NS3.GOOGLE.COM",
-            "NS4.GOOGLE.COM"
+            "ASIA3.AKAM.NET",
+            "EUR2.AKAM.NET",
+            "EUR5.AKAM.NET",
+            "NS1-206.AKAM.NET",
+            "NS1-99.AKAM.NET",
+            "USC2.AKAM.NET",
+            "USC3.AKAM.NET",
+            "USW2.AKAM.NET"
         ]
-    }
+    },
+    "IP Geolocation": {
+        "IP": "65.61.137.117",
+        "Country": "United States",
+        "City": "Dallas",
+        "ISP": "Rackspace Hosting",
+        "Lat": 32.7767,
+        "Lon": -96.797,
+        "Timezone": "America/Chicago"
+    },
+    "Google Dorking": {
+        "Sensitive Files": "site:www.testfire.net ext:log OR ext:txt OR ext:conf",
+        "Exposed Admin Panels": "site:www.testfire.net inurl:admin",
+        "Open Indexes": "site:www.testfire.net intitle:index.of"
+    },
+    "Metadata Extraction": {}
 }
